@@ -1,0 +1,12 @@
+{
+    "fileMark": {
+        "scriptFile": "src/index.js",
+        "configFile": "src/config.json"
+    },
+    "name": "Haimibot_extend",
+    "scriptId": "643b1191a5baccee8731ea34",
+    "executeRobot": {
+        "_id": "64327b26cea8ce4f70a96e5e",
+        "name": "圣洁菠菜"
+    }
+}
